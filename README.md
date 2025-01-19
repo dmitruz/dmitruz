@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+[![Codewars](https://www.codewars.com/users/dmitruz/badges/large)](https://www.codewars.com/users/dmitruz)
+
