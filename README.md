@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I am Dmytro Ruzhytskyi 👨‍💻
 
-#### I am a Full Stack Web Developer. I am passionate about technologies and love to learn new things.
+#### I am a Software Developer. I am passionate about technologies and love to learn new things.
 
 🔭 Have a look at my [website](https://dmytro-ruzhytskyi.netlify.app/). ⚡ Tech Stack
 
